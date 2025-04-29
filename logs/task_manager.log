@@ -1,0 +1,6 @@
+2025-04-28 15:25:05,252 - INFO - Added task: Test Task (Priority: 5)
+2025-04-28 15:25:05,252 - INFO - Added task: Task to Delete (Priority: 3)
+2025-04-28 15:25:05,252 - INFO - Deleted task ID: 1
+2025-04-28 15:25:51,631 - INFO - Added task: Acheter du pain (Priority: 2)
+2025-04-28 15:26:19,243 - INFO - Added task: Acheter du dentifrice (Priority: 1)
+2025-04-28 15:26:30,185 - INFO - Added task: Acheter du deo (Priority: 1)
